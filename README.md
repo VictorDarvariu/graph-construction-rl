@@ -1,5 +1,5 @@
 # Code for "Goal-directed graph construction using reinforcement learning"
-**NOTE.** A lightweight version of the code that removes the GPU dependency is available at [https://github.com/VictorDarvariu/graph-construction-rl-lite](this repository), which makes it easier to run the code in case you don't have a GPU. Also useful if you just want to try out the algorithm.
+**NOTE.** A lightweight version of the code that removes the GPU dependency is available at [this repository](https://github.com/VictorDarvariu/graph-construction-rl-lite), which makes it easier to run the code in case you don't have a GPU. Also useful if you just want to try out the algorithm.
 
 This is the code for the article [_Goal-directed graph construction using reinforcement learning_](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0168) by [Victor-Alexandru Darvariu](https://victor.darvariu.me), [Stephen Hailes](http://www.cs.ucl.ac.uk/drupalpeople/S.Hailes.html) and [Mirco Musolesi](https://mircomusolesi.org), Proc. R. Soc. A. **477**:20210168. If you use this code, please consider citing:
 
